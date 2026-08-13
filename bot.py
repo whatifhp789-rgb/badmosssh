@@ -4,7 +4,7 @@ Features
 --------
   /start            -> welcome media (up to 10 photos/videos as an album) + text
                        + plan buttons + "How to use" / "Report an Issue" buttons
-  plan button       -> that plan's videos/photos first, then the QR photo + text
+ # plan button       -> that plan's videos/photos first, then the QR photo + text
   user sends photo  -> forwarded to admin, Approve / Decline buttons right under it
   approve           -> customer automatically gets the access link
   decline           -> customer gets the "not verified" message

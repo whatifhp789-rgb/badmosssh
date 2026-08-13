@@ -1,4 +1,4 @@
-Telegram payment bot — single file Python version (media + dashboard edition).
+# Telegram payment bot — single file Python version (media + dashboard edition).
 
 Features
 --------

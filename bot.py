@@ -8,7 +8,7 @@ Features
   user sends photo  -> forwarded to admin, Approve / Decline buttons right under it
   approve           -> customer automatically gets the access link
   decline           -> customer gets the "not verified" message
-  report issue      -> customer's message/screenshot is forwarded to the admin
+ # report issue      -> customer's message/screenshot is forwarded to the admin
   /admin            -> opens the DASHBOARD (totals, revenue, pending list)
                        plus buttons to change prices, texts, media and the link
 
